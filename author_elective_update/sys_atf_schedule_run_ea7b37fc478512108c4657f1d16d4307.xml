@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run">
+    <sys_atf_schedule_run action="DELETE">
+        <active>true</active>
+        <browser_name>any</browser_name>
+        <browser_version/>
+        <description>Run suite 'NeedItApp' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description>
+        <order>100</order>
+        <os_name>any</os_name>
+        <os_version/>
+        <schedule display_value="NeedIt App Suites">796bffbc478512108c4657f1d16d4371</schedule>
+        <sys_class_name>sys_atf_schedule_run</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-02 19:56:15</sys_created_on>
+        <sys_id>ea7b37fc478512108c4657f1d16d4307</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_schedule_run_ea7b37fc478512108c4657f1d16d4307</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-02 19:56:15</sys_updated_on>
+        <test_suite display_value="NeedItApp">ef6f7678478112108c4657f1d16d43b2</test_suite>
+        <watch_list/>
+    </sys_atf_schedule_run>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3941539a1b76f5149377eb9b2d4bcbd4</instance_id>
+        <instance_name>dev231074</instance_name>
+        <name>sys_atf_schedule_run_ea7b37fc478512108c4657f1d16d4307</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_schedule_run"><sys_atf_schedule_run action="INSERT_OR_UPDATE"><active>true</active><browser_name>any</browser_name><browser_version/><description>Run suite 'NeedItApp' on a system with this configuration:
+Any browser on any version
+Any operating system on any version</description><order>100</order><os_name>any</os_name><os_version/><schedule display_value="NeedIt App Suites">796bffbc478512108c4657f1d16d4371</schedule><sys_class_name>sys_atf_schedule_run</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-02 19:56:15</sys_created_on><sys_id>ea7b37fc478512108c4657f1d16d4307</sys_id><sys_mod_count>0</sys_mod_count><sys_name>100</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_schedule_run_ea7b37fc478512108c4657f1d16d4307</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-02 19:56:15</sys_updated_on><test_suite display_value="NeedItApp">ef6f7678478112108c4657f1d16d43b2</test_suite><watch_list/></sys_atf_schedule_run></record_update>]]></payload>
+        <payload_hash>-1866842304</payload_hash>
+        <record_name>100</record_name>
+        <reverted_from/>
+        <source>558250a2472002108c4657f1d16d4382</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-02 19:56:15</sys_created_on>
+        <sys_id>a99b7bfc478512108c4657f1d16d4315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1924ecdfe6a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-02 19:56:15</sys_updated_on>
+        <type>Scheduled Suite Run</type>
+        <update_guid>ed9b7bfcd6851210f522456b17774414</update_guid>
+        <update_guid_history>ed9b7bfcd6851210f522456b17774414:-1866842304</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-02 19:57:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_schedule_run">sys_atf_schedule_run</sys_db_object>
+        <sys_id>7fdb9562c810400996e7788c0172c591</sys_id>
+        <sys_metadata>ea7b37fc478512108c4657f1d16d4307</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>100</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_schedule_run_ea7b37fc478512108c4657f1d16d4307</sys_update_name>
+        <sys_update_version display_value="sys_atf_schedule_run_ea7b37fc478512108c4657f1d16d4307">a99b7bfc478512108c4657f1d16d4315</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-02 19:57:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

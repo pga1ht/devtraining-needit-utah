@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <copied_from display_value="Log">4f55f27c474112108c4657f1d16d43df</copied_from>
+        <description>Log: Test of When needed with a date in the future should fail since the business rule should prevent the record from being inserted.</description>
+        <display_name>Log</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-02 15:10:29</sys_created_on>
+        <sys_id>572a32f0478112108c4657f1d16d439a</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_step_572a32f0478112108c4657f1d16d439a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-02 15:17:27</sys_updated_on>
+        <table/>
+        <test display_value="When needed - past">4b2a3670478112108c4657f1d16d43b2</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=572a32f0478112108c4657f1d16d439a"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>572a32f0478112108c4657f1d16d439a</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-02 15:10:29</sys_created_on>
+        <sys_id>1b2a32f0478112108c4657f1d16d439b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-02 15:15:07</sys_updated_on>
+        <value>Test of When needed with a date in the future should fail since the business rule should prevent the record from being inserted.</value>
+        <variable display_value="Log">523c79985f30220012b44adb7f46663a</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_58ab71985f30220012b44adb7f46661e^id=572a32f0478112108c4657f1d16d439a"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>3941539a1b76f5149377eb9b2d4bcbd4</instance_id>
+        <instance_name>dev231074</instance_name>
+        <name>sys_atf_step_572a32f0478112108c4657f1d16d439a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><copied_from display_value="Log">4f55f27c474112108c4657f1d16d43df</copied_from><description>Log: Test of When needed with a date in the future should fail since the business rule should prevent the record from being inserted.</description><display_name>Log</display_name><inputs/><mugshots_cache_json/><notes/><order>3</order><step_config display_value="Log">58ab71985f30220012b44adb7f46661e</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-02 15:10:29</sys_created_on><sys_id>572a32f0478112108c4657f1d16d439a</sys_id><sys_mod_count>5</sys_mod_count><sys_name>Log</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_step_572a32f0478112108c4657f1d16d439a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-02 15:17:27</sys_updated_on><table/><test display_value="When needed - past">4b2a3670478112108c4657f1d16d43b2</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=572a32f0478112108c4657f1d16d439a"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>572a32f0478112108c4657f1d16d439a</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-10-02 15:10:29</sys_created_on><sys_id>1b2a32f0478112108c4657f1d16d439b</sys_id><sys_mod_count>3</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-10-02 15:15:07</sys_updated_on><value>Test of When needed with a date in the future should fail since the business rule should prevent the record from being inserted.</value><variable display_value="Log">523c79985f30220012b44adb7f46663a</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_58ab71985f30220012b44adb7f46661e^id=572a32f0478112108c4657f1d16d439a"/></record_update>]]></payload>
+        <payload_hash>-823344720</payload_hash>
+        <record_name>Log</record_name>
+        <reverted_from/>
+        <source>558250a2472002108c4657f1d16d4382</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-02 15:17:27</sys_created_on>
+        <sys_id>d9cbb274478112108c4657f1d16d43cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1924dcebca80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-02 15:17:27</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>91cbb274e9811210e72c6dada86e10cc</update_guid>
+        <update_guid_history>91cbb274e9811210e72c6dada86e10cc:-823344720,873bf634cc8112108dc17eef431830f0:2060601521,c48af2f03d811210daf436612a7604cb:-184231164,d32a32f064811210f1ab37241d2c5fa3:-396623754,d72a32f0cb811210b1425c3c56e03b9d:-1750586908</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-02 15:17:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>4fcfc3a3fb5148e1ab85af31df39ce21</sys_id>
+        <sys_metadata>572a32f0478112108c4657f1d16d439a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_step_572a32f0478112108c4657f1d16d439a</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_572a32f0478112108c4657f1d16d439a">d9cbb274478112108c4657f1d16d43cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-02 15:17:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
